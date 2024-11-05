@@ -1,0 +1,336 @@
+  
+  
+  .logoIcon {
+    width: 138px;
+    position: relative;
+    height: 32px;
+  }
+  .ngK1 {
+    position: relative;
+    line-height: 40px;
+  }
+  ._ngK_1sf2b_7{
+    width: 100%;
+    height:100vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .cngPhtTrin {
+    align-self: stretch;
+    position: relative;
+    font-size: 16px;
+    line-height: 24px;
+    color: #505050;
+    text-align: left;
+  }
+  .ngKParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+  }
+  .title {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+    text-align: center;
+  }
+  .label {
+    position: relative;
+    line-height: 20px;
+    font-weight: 500;
+  }
+  .smsIcon {
+    width: 20px;
+    position: relative;
+    height: 20px;
+  }
+  .text {
+    flex: 1;
+    position: relative;
+    line-height: 24px;
+  }
+  .content1 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+  }
+  .input {
+    align-self: stretch;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    background-color: #fff;
+    border: 1px solid #b5b5b5;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 24px;
+    font-size: 16px;
+    color: #919191;
+  }
+  .inputWithLabel {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 6px;
+  }
+  .inputField {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .eyeSlashIcon {
+    width: 16px;
+    position: relative;
+    height: 16px;
+  }
+  .input1 {
+    align-self: stretch;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    background-color: #fff;
+    border: 1px solid #b5b5b5;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 24px;
+    gap: 8px;
+    font-size: 16px;
+    color: #919191;
+  }
+  .emailPass {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+  }
+  .emailPassWrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 14px;
+    color: #3d3d3d;
+  }
+  .text3 {
+    position: relative;
+    line-height: 24px;
+  }
+  .buttonBase {
+    flex: 1;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    background-color: #bc2228;
+    border: 1px solid #bc2228;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 20px;
+  }
+  .button {
+    align-self: stretch;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05), 0px 0px 0px 4px #f2f4f7;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .ngK2 {
+    position: relative;
+    line-height: 24px;
+    color: #bc2228;
+  }
+  .signUp {
+    display: none;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+    color: #848484;
+  }
+  .buttonGroup {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+    font-size: 16px;
+    color: #fff;
+  }
+  
+  .content {
+    position: absolute;
+    top: calc(50% - 259px);
+    left: 120px;
+    width: 481px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .imgIcon {
+    position: absolute;
+    top: 23px;
+    right: -0.4px;
+    width: 704.4px;
+    height: 960.3px;
+    overflow: hidden;
+    object-fit: contain;
+  
+  
+  }
+  .decorIcon {
+    position: relative;
+    width: 500px;
+    height: 400px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .ngK {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 960px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32px;
+    color: #000;
+    font-family: 'SF Pro Display';
+  }
+  .logoIcon {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .ngK {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+    font-family: 'SF Pro Display', sans-serif;
+  }
+  
+  .content {
+    padding: 4rem;
+    width: Fixed (481px)px;
+  height: Hug (518px)px;
+  top: 170px;
+  left: 200px;
+  gap: 20px;
+  opacity: 0px;
+  
+  }
+  
+  .loginForm {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  .ngK1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .cngPhtTrin {
+    font-size: 16px;
+    color: #505050;
+  }
+  
+  .emailPassWrapper {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .inputField {
+    margin-bottom: 16px;
+  }
+  
+  .label {
+    font-size: 14px;
+    margin-bottom: 4px;
+  }
+  
+  .input, .input1 {
+    display: flex;
+    align-items: center;
+    border: 1px solid #b5b5b5;
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 16px;
+    width: 100%;
+  }
+  
+  .eyeSlashIcon {
+    width: 20px;
+    height: 20px;
+    margin-left: auto;
+    cursor: pointer;
+  }
+  
+  .buttonGroup {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .buttonBase {
+    width: 100%;
+    background-color: #bc2228;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  
+  .ngK2 {
+    color: #bc2228;
+    cursor: pointer;
+  }
+  
+  .imgIcon {
+    width: 50%;
+    object-fit: cover;
+  }
+  
