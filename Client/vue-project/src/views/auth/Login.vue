@@ -45,7 +45,8 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div>  
+            
             <div :class="$style.remember">
               <div :class="$style.checkbox">
                 <div :class="$style.checkbox1">

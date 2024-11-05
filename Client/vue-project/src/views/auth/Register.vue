@@ -119,6 +119,7 @@
     font-size: 14px;
     margin-bottom: 4px;
   }
+  
   .smsIcon {
     width: 20px;
     position: relative;
